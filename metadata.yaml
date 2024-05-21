@@ -1,0 +1,28 @@
+_repo: Procrustes-or-the-future-of-English-education_73580
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pink, M. Alderton
+    gutenberg_agent_id: '57127'
+    url: http://www.gutenberg.org/2009/agents/57127
+description: ''
+gutenberg_issued: '2024-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73580'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.262158
+pgterms:marc905: 20230201053438pink
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Produced by Tim Lindell, Donald Cummings and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bE. P. Dutton & Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Procrustes; or, the future of English education
+url: http://www.gutenberg.org/ebooks/73580
