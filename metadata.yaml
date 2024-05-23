@@ -1,11 +1,16 @@
 _repo: Procrustes-or-the-future-of-English-education_73580
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73580-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Pink, M. Alderton
     gutenberg_agent_id: '57127'
     url: http://www.gutenberg.org/2009/agents/57127
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73580#Procrustes-or-the-future-of-English-education
 gutenberg_issued: '2024-05-09'
 gutenberg_type: Text
 identifiers:
